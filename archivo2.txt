@@ -1,4 +1,0 @@
-archivo 2 texto
-se agrego algo nuevo 
-tercer dato
-cuarto ddato

@@ -1,0 +1,28 @@
+	Practica 01:
+crear archivo1("Hola1") y moverlo hasta commit 
+crear nuevo archivo1("Hola2") y moverlo a commit 
+crear nuevo archivo1("hola3") 
+restaurar archivo1("Hola2") de commit para remplazar a archivo1("Hola3")
+Resultado: archivo1 ("archivo2") permanece en commit y staged 
+
+	Practica 02:
+crear archivo1("hola1") y mocerlo a commit
+crear nuevo archivo1("hola2")
+remombrar archivo1("hola2") por archivo2
+restaurar archivo1 desde commit
+mover archivo2 hasta comit
+Resultado: archivo1("hola1") y archivo2("hola2") parmanecen creados
+
+
+	Practica 03:
+crear archivo1("hola1") y moverlo a commit
+crear nuevo archivo1("hola2") 
+mover archivo1("hola2") a staged 
+regresar archivo1("hola2") de staged (untracked)
+restaurar archivo1("hola1") desde commit
+Resultado: archivo1("hola1") parmanecen creados
+
+
+
+
+
